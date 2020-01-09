@@ -1,3 +1,3 @@
 # DownloadManager
-exposes many end points
-#Restful API
+#Resfful API
+#Exposes many end points
