@@ -1,4 +1,4 @@
-// Author : Dilip
+// Author : Dilip Chauhan
 package main
 
 import (
