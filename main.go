@@ -1,4 +1,4 @@
-// Sammarth
+// Author : Dilip Chauhan
 package main
 
 import (
