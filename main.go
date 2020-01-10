@@ -6,7 +6,6 @@ import (
 )
 
 //the main executatble file
-
 //gin router 
 var router *gin.Engine
 
