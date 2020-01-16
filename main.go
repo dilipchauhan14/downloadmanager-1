@@ -5,7 +5,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-//the main executatble file
 //gin router 
 var router *gin.Engine
 
