@@ -9,7 +9,6 @@ import (
 //gin router 
 var router *gin.Engine
 
-//main function starts
 func main() {
 	router = gin.Default()
 
