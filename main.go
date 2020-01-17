@@ -5,7 +5,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-//gin router 
 var router *gin.Engine
 
 func main() {
