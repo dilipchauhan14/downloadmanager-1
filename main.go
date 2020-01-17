@@ -6,6 +6,7 @@ import (
 )
 
 //gin router 
+//good download manager
 var router *gin.Engine
 
 func main() {
