@@ -24,7 +24,7 @@ func getRouter() *gin.Engine {
 
 	return r
 }
-//prcocess HTTP Request
+
 func processHttpRequest(r *gin.Engine, req *http.Request) *httptest.ResponseRecorder {
 	// Create a response recorder
 	w := httptest.NewRecorder()
